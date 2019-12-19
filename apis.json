@@ -1,0 +1,70 @@
+{
+    "name": "HostBill",
+    "description": "Hosting, Cloud\/IaaS\/VPS Solutions Providers, Domain name and SSL Resellers around the globe use HostBill to automate & manage their online businesses",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1070-hostbill.jpg",
+    "tags": [
+        "api provider",
+        "billing",
+        "financial",
+        "has api",
+        "have api",
+        "invoices",
+        "no api definition",
+        "payments"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hostbill\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "HostBill",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1070-hostbill.jpg",
+            "humanURL": "http:\/\/hostbillapp.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hostbill-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/extras.hostbillapp.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/hostbill"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.hostbillapp.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/hostbill"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/hostbillapp.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hostbill"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hostbillappcom"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/hostbillapp.com\/"
+        }
+    ]
+}
